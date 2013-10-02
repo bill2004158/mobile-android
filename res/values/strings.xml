@@ -237,10 +237,10 @@
   <string name="LoginWarningMsg">Connection error</string>
 
 
-    <string-array name="SocialTabs">
-    <item>All Updates</item>
-    <item>My Connections</item>
-    <item>My Spaces</item>
-    <item>My Status</item>
+  <string-array name="SocialTabs">
+    <item id="AllUpdates">All Updates</item>
+    <item id="MyConnections">My Connections</item>
+    <item id="MySpaces">My Spaces</item>
+    <item id="MyStatus">My Status</item>
   </string-array>
 </resources>
